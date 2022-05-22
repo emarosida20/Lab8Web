@@ -55,20 +55,21 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 
 # Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
-![9 (2)](https://user-images.githubusercontent.com/101863671/169687553-84384589-161f-45aa-b0d9-62dd2c46608f.png)
-![10 (2)](https://user-images.githubusercontent.com/101863671/169687563-64b2cbed-5839-4046-8113-15dae9d55d56.png)
+![9 (2)](https://user-images.githubusercontent.com/101863671/169688974-986f9a9a-470a-40a0-8b05-786d7b4330ec.png)
+
+![10 (2)](https://user-images.githubusercontent.com/101863671/169689025-5c9d36c6-eea7-40b0-8240-7cfb4d4d09c7.png)
 
 Agar tampilan nya terlihat rapih dan menarik tambahkan CSS di dalamnya
 ![style css (2)](https://user-images.githubusercontent.com/101863671/169688640-92f633ad-424a-4ca4-84e4-0a55a123b25c.png)
 
 Hasil browser
-![11 (2)](https://user-images.githubusercontent.com/101863671/169687592-4575fb3a-5ebd-4893-a11c-5246769c1fbe.png)
+![11 (2)](https://user-images.githubusercontent.com/101863671/169689159-334844cd-6931-4359-9a7a-493857797430.png)
 
 # Menambah Data (Create)
 Buat file baru dengan nama tambah.php
-![12 (2)](https://user-images.githubusercontent.com/101863671/169687714-304c0046-25c0-482c-856c-125066f66463.png)
-![13 (2)](https://user-images.githubusercontent.com/101863671/169687717-ba8e8655-cf7d-44e4-b75c-e807eb2efcea.png)
-![14 (2)](https://user-images.githubusercontent.com/101863671/169687727-6e220a9a-08ab-45cb-bd32-022e23f73777.png)
+![12 (2)](https://user-images.githubusercontent.com/101863671/169689205-3226bbca-2b3b-4f46-adaf-043bcefd57a0.png)
+![13 (2)](https://user-images.githubusercontent.com/101863671/169689240-dff73823-6216-43d3-991a-8ab702f4d70b.png)
+![14 (2)](https://user-images.githubusercontent.com/101863671/169689348-4b0c8679-5d47-4fdf-b3b2-0990dd1c9607.png)
 
 Hasil browser
 ![15 (2)](https://user-images.githubusercontent.com/101863671/169687759-7cb4e06d-4fa2-4fe6-bcc1-919bb5a8eeb3.png)
